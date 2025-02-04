@@ -63,42 +63,43 @@ For more information on the importance of a professional README for your reposit
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [your_project_name] <a name="MY FIRST PROJECT"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[My first project]** is a web page developed by using HTML, at first ,it was tedious but along the line with much guidance and corrections i get to be more getting along ....
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With <a name="built-with HTML"></a>
 
-### Tech Stack <a name="tech-stack"></a>
+### Tech Stack <a name="tech-stacK "></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+> Built with html, front-end only<!--
 
-<details>
-  <summary>Client</summary>
+<!--<!--<details>
+ <!-- <summary>Client</summary>
   <ul>
     <li><a href="https://reactjs.org/">React.js</a></li>
   </ul>
 </details>
+-->
 
 <details>
-  <summary>Server</summary>
+ <!--> <summary>Server</summary>
   <ul>
     <li><a href="https://expressjs.com/">Express.js</a></li>
   </ul>
-</details>
+</details>-->
 
-<details>
+<!--<details>
 <summary>Database</summary>
   <ul>
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
-</details>
+</details>-->
 
 <!-- Features -->
 
-### Key Features <a name="key-features"></a>
+### Key Features <a name="key-features"></a><>
 
 > Describe between 1-3 key features of the application.
 
@@ -110,7 +111,7 @@ For more information on the importance of a professional README for your reposit
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀 Live Demo <a name="live-demo http://127.0.0.1:5500/"></a>
 
 > Add a link to your deployed project.
 
@@ -120,15 +121,15 @@ For more information on the importance of a professional README for your reposit
 
 <!-- GETTING STARTED -->
 
-## 💻 Getting Started <a name="getting-started"></a>
+## 💻 Getting Started <a name="getting-started with Coding @ Code Campus"></a>
 
-> Describe how a new developer could make use of your project.
+> I'm trying to think , build and have interest in difficulty aspects of developer stage.
 
-To get a local copy up and running, follow these steps.
+<!--To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
+In order to run this project you need:-->
 
 <!--
 Example command:
@@ -210,15 +211,15 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [olanrewajumutiat52230](https://github.com/olanrwajumutiat52230)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [mutyatolanrewaju@gmail.com](https://linkedin.com/in/mutyatolanrewaju@gmail.com)
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@olanrewajumutiat52230](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [mutyatolanrewaju@gmail.com](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -228,9 +229,9 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[new_featur1  Applying CSS]**
+- [ ] **[new_feature_2 Using a JAVASCRIPTS]**
+- [ ] **[new_feature_3 AND give it a proper backend]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -248,9 +249,9 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
+> Hi everyone ! Please do not forget to view  & likes and look up for more projects coming your ways 
 
-If you like this project...
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -258,9 +259,9 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
+> 
 
-I would like to thank...
+I would like to thank God first, my tutor and Code Campus for giving this opportunity to learn ...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -270,13 +271,13 @@ I would like to thank...
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **[Question_1 Why did you decided to code?]**
 
-  - [Answer_1]
+  -   [Answer_1 My Sponser advised which i think its a go-for ]
 
-- **[Question_2]**
+- **[Question_2  Is coding difficult?]**
 
-  - [Answer_2]
+  - [Answer_2 It is ,I will not lie but with the right mentorship and determinations,It's easy to reach a goal]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -284,8 +285,8 @@ I would like to thank...
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
-
+This project is [TOM I.T](./LICENSE) licensed.
+<!-->
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
-
+-->
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
